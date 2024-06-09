@@ -53,4 +53,4 @@ const typewriter = (text, speed) => {
   };
   type();
 };
-typewriter("jscreator", 100);
+typewriter("not vivaan", 100);
